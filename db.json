@@ -1,14 +1,17 @@
 {
   "users": [
     {
+      "id": 1,
       "name": "Albert Byrone",
       "email": "test@echo.com"
     },
     {
+      "id": 2,
       "name": "Albert Byrone",
       "email": "test@echo.com"
     },
     {
+      "id": 3,
       "name": "Albert Byrone",
       "email": "test@echo.com"
     }
